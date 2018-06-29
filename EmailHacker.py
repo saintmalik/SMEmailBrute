@@ -70,6 +70,7 @@ print
 ehacker = raw_input ("[*] E-hacker > " )
 
 if ehacker == '01' or ehacker == '1' :
+   
 print "          +---------------------------+"
 print "          |     Cisco Brute Force     |"
 print "          +---------------------------+"
