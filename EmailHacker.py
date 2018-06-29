@@ -9,10 +9,10 @@ Hydra is needed for the process of this program :).
 import sys, os, time
 
 # Restart ####################
-def restart_program ():
-python = sys.executable
-os.execl(python, python, * sys.argv)
-curdir = os.getcwd()
+ def restart_program ():
+    python = sys.executable
+    os.execl(python, python, * sys.argv)
+    curdir = os.getcwd()
 ##############################
 os.system( "clear" )
 print "_____ "                _ _ _   _            _
