@@ -70,10 +70,10 @@ print
 ehacker = raw_input ("[*] E-hacker > " )
 
 if ehacker == '01' or ehacker == '1' :
-   
-print "          +---------------------------+"
-print "          |     Cisco Brute Force     |"
-print "          +---------------------------+"
+print
+print '          +---------------------------+'
+print '          |     Cisco Brute Force     |'
+print '          +---------------------------+'
 print
 print
 iphost = raw_input ("[*] IP/Hostname : " )
