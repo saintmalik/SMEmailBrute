@@ -15,7 +15,35 @@ def restart_program ():
    curdir = os.getcwd()
 ##############################
 os.system( "clear" )
-figlet  EmailHacker
+print '================================================='
+print '               coded by SAINTMALIK.              '
+print '================================================='
+print '               ++++++++++++++++++++              '
+print '\n                                               '
+print '  _,.                                            '
+print '                                                 '
+print '                                                 '
+print '                                                 '
+print '       _,.                   '
+print '     ,` -.)                  '
+print '    ( _/-\\-._               '
+print '   /,|`--._,-^|            , '
+print '   \_| |`-._/||          , | '
+print '     |  `-, / |         /  / '
+print '     |     || |        /  /  '
+print '      `r-._||/   __   /  /   '
+print '  __,-<_     )`-/  `./  /    '
+print '  \   `---    \   / /  /     '
+print '     |           |./  /      '
+print '     /           //  /       '
+print ' \_/  \         |/  /        '
+print '  |    |   _,^- /  /         '
+print '  |    , ``  (\/  /_         '
+print '   \,.->._    \X-=/^         '
+print '   (  /   `-._//^`           '
+print '    `Y-.____(__}             '
+print '     |     {__)              '
+print '           ()                '
 print "[]xxxxx[]::::::::::::::::::::> 29-07-2018 (4:39AM)"
 print " [*] Author: SAINTMALIK  ---  [*] Version 1.0"
 print "c=={:::::::::::::::> EmailHacker Console"
