@@ -15,7 +15,7 @@ def restart_program ():
    curdir = os.getcwd()
 ##############################
 os.system( "clear" )
-figlet -f slant "EmailHacker"
+figlet  "EmailHacker"
 print "[]xxxxx[]::::::::::::::::::::> 29-07-2018 (4:39AM)"
 print " [*] Author: SAINTMALIK  ---  [*] Version 1.0"
 print "c=={:::::::::::::::> EmailHacker Console"
