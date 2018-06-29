@@ -1,4 +1,4 @@
-filet -f standard "EmailHacker"
+figlet -f standard "EmailHacker"
 
 echo Simple Email Cracking Script in Termux/Terminal/Kali
 echo Written By: SAINTMALIK
@@ -13,5 +13,5 @@ echo Enter Email Address:
 read email
 echo Provide Directory of Wordlist for Passwords:
 read wordlist
-
+python2 blackhydra.py
 
