@@ -1,5 +1,4 @@
 # SMEmailBrute
-Python script for hacking gmail  using brute force attack
 
 This is a Simple Python Script which will help you to bruteforce Email Account Of Gmail, Yahoo etc.
 
