@@ -9,4 +9,3 @@ This is a Simple Python Script which will help you to bruteforce Email Account O
 3. chmod +x gmail_attacker.py
 4. python2 gmail_attacker.py
 
-Thank you I remain tha humble saintmalik!!! 
